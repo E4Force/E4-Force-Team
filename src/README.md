@@ -5,6 +5,15 @@ Control software
 All artifacts required to resolve dependencies and build the project must be included in this directory as well. </sub>
 
 
+
+
+# All code developed by us is listed here.
+        - main.py
+        - motors.py
+        - servo.py
+        - color_sensor
+        **color_sensor.py is a library made by us, but it wouldn't work without the dependcies, thos being const.py, devide.py, exceptions.py and __init__.py** 
+
         # Changes made as of 29SEP24
                 -main.py has been updated to do a routine looking at the color of the track
                 -servo.py has been updated to compensante for slack in the rack and pinion
@@ -14,13 +23,6 @@ All artifacts required to resolve dependencies and build the project must be inc
                 -buzzer.py
                 -actions.py
 
-
-# All code developed by us is listed here.
-        - main.py
-        - motors.py
-        - servo.py
-        - color_sensor
-        **color_sensor.py is a library made by us, but it wouldn't work without the dependcies, thos being const.py, devide.py, exceptions.py and __init__.py** 
 
 # Code sourced from Github is listed here, mainly the libraries for the sensors used.
 
