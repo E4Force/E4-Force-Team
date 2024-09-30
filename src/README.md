@@ -14,12 +14,12 @@ All artifacts required to resolve dependencies and build the project must be inc
         - color_sensor
         **color_sensor.py is a library made by us, but it wouldn't work without the dependcies, thos being const.py, devide.py, exceptions.py and __init__.py** 
 
-        # Changes made as of 29SEP24
+         Changes made as of 29SEP24
                 -main.py has been updated to do a routine looking at the color of the track
                 -servo.py has been updated to compensante for slack in the rack and pinion
                 -color_sensor.py has been updated to see more colors
         
-        ## Code added
+         Code added
                 -buzzer.py
                 -actions.py
 
