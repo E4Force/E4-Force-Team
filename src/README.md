@@ -5,14 +5,14 @@ Control software
 All artifacts required to resolve dependencies and build the project must be included in this directory as well. </sub>
 
 
-# Changes made as of 29SEP24
-        -main.py has been updated to do a routine looking at the color of the track
-        -servo.py has been updated to compensante for slack in the rack and pinion
-        -color_sensor.py has been updated to see more colors
-
-## Code added
-        -buzzer.py
-        -actions.py
+        # Changes made as of 29SEP24
+                -main.py has been updated to do a routine looking at the color of the track
+                -servo.py has been updated to compensante for slack in the rack and pinion
+                -color_sensor.py has been updated to see more colors
+        
+        ## Code added
+                -buzzer.py
+                -actions.py
 
 
 # All code developed by us is listed here.
